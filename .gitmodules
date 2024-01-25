@@ -2,3 +2,6 @@
 	path = deps/Fusion
 	url = https://github.com/xioTechnologies/Fusion.git
 
+[submodule "deps/hidapi"]
+	path = deps/hidapi
+	url = https://github.com/libusb/hidapi.git
