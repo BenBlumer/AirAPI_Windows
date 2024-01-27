@@ -403,3 +403,11 @@ deps/hidapi-win
 
 #Fusion
 deps/Fusion
+
+
+#Cmake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+

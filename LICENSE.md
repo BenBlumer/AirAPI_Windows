@@ -1,3 +1,5 @@
+This project is a fork and redesign by Ben Blumer of code provided my MSmithDev under the following license:
+
 MIT License
 
 Copyright (c) 2023 MSmithDev
